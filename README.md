@@ -1,6 +1,6 @@
 # Hi, I'm Iordanis Georgiadis 👋
 
-Informatics graduate specializing in **Information Systems**, with a focus on **Software Development** and **Cybersecurity**.
+Informatics graduate specializing in **Information Systems**, with a focus on **Software Development**.
 
 ## Featured Projects
 
