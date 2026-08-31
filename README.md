@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Iordanis Georgiadis 👋
 
-<!--
-**JordanGeor/JordanGeor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatics graduate specializing in **Information Systems**, with a focus on **Software Development** and **Cybersecurity**.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔐 SiteGuard
+
+A local-first website security auditing tool built with Python.
+
+Performs safe, non-invasive checks for TLS certificates, HTTP security headers, cookie security, DNSSEC signals, SPF, and DMARC. Generates a security score, risk assessment, recommendations, and an HTML security report.
+
+→ [View SiteGuard](https://github.com/JordanGeor/SiteGuard)
+
+### 🍷 Wine Stock
+
+An Android inventory management application designed for restaurant wine cellar stock management.
+
+Built to replace manual stock tracking with a simple digital workflow for managing wines, quantities, categories, and stock movements.
+
+### ⭐ QRate
+
+A QR-based review management platform built with FastAPI.
+
+Designed for businesses to collect customer feedback through QR codes, route positive experiences toward public reviews, and provide private feedback to management.
+
+## Technologies
+
+- **Languages:** Python, Kotlin
+- **Backend:** FastAPI
+- **Mobile:** Android, Jetpack Compose
+- **Databases & Services:** Firebase
+- **Tools:** Git, GitHub, pytest
+
+## Interests
+
+- Cybersecurity
+- Software Development
+- Information Systems
+- Web & Mobile Applications
